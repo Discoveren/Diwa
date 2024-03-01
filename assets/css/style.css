@@ -1,0 +1,16 @@
+* {
+    margin: auto;
+    padding: 0;
+}
+
+header nav {
+    display:flex
+}
+
+nav li{
+    list-style: none;
+}
+
+div {
+    justify-content: flex-end;
+}
