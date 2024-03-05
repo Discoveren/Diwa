@@ -1,3 +1,5 @@
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/arrow-long-right.css');
+
 * {
     margin: auto;
     padding: 0;
@@ -14,4 +16,5 @@ nav li{
 div {
     justify-content: space-evenly;
     margin: auto 500px;
+    
 }
